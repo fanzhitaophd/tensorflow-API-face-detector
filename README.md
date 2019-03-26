@@ -5,6 +5,8 @@ Learn how to use tensorflow API to train the face detector.
 ### Requirement
 
 * Python
+* Pandas
+* xml 
 
 ### Working folders
 
