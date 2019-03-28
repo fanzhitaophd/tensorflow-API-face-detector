@@ -12,8 +12,8 @@ Learn how to use tensorflow API to train the face detector.
 
 Home
 - /home/zhitao/Documents/Python/Object_detection/Train_SSD/
-- source active tfpy3 
-
+- source active tfpy3
+- Object detection: /home/zhitao/Documents/Python/tensorflow_models/research/object_detection
 
 ### Reference
 

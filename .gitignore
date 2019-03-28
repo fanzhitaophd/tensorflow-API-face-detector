@@ -1,5 +1,10 @@
 # Data folder
 Data/
+model/
+model_output/
+model_yeephycho/
+Test_images
+val/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
